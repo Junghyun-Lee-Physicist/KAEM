@@ -1,0 +1,9 @@
+/run/initialize
+/tracking/verbose 0
+/run/printProgress 10
+
+/gun/particle e+
+#/gun/momentum 0 1 0.3
+#/gun/energy 400 keV
+/run/beamOn 10
+
